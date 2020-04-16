@@ -25,7 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     //change player
                     currentPlayer = 1;
                     displayCurrentPlayer.innerHTML = currentPlayer;
+                } else { //if the square below your current square is not taken, you can't go here
+                    alert('You can\'t go here');
                 }
+                
             }
         }
     })

@@ -51,3 +51,8 @@ footer {
     align-items: center;
     margin-top: 50px;
 }
+
+footer > span {
+    font-family: 'ZCOOL XiaoWei', serif;
+    
+}

@@ -1,4 +1,8 @@
-* {}
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .grid {
     border: 1px solid;
     display: flex;

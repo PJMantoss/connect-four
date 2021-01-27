@@ -13,6 +13,8 @@ body {
     margin-top: 15%;
 }
 
+header {}
+
 .grid {
     border: 1px solid;
     display: flex;

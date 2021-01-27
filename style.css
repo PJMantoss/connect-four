@@ -27,6 +27,7 @@ header h3 {
     flex-wrap: wrap;
     height: 120px;
     width: 140px;
+    background: white;
 }
 
 .grid div {

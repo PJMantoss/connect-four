@@ -44,3 +44,8 @@ header h3 {
     background: blue;
     border-radius: 10px;
 }
+
+footer {
+    display: flex;
+    
+}

@@ -67,5 +67,6 @@ footer > img {
 }
 
 footer > span > a {
+    text-decoration: none;
     
 }
